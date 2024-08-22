@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓I'm currently a Computer Engineering student at UTFPR in Paraná, Brasil.<br>🎮 I'm passionate about games, culture, and everything related to computers.<br>💻 Feel free to review my code and share any helpful feedback!<br><br>🚀 Current Level: Beginner currently learning C and Python.<br>🎯 Future Goals: Mastering C++ and JavaScript.</h4>
+<h4 align="left">🎓I'm currently a Computer Engineering student at UTFPR in Paraná, Brasil.<br>🎮 I'm passionate about games, culture, and everything related to computers.<br>💻 Feel free to review my code and share any helpful feedback!<br><br>🚀 Current Level: Beginner currently learning C and Python.<br>🎯 Future Goals: Mastering C++, Java and JavaScript.</h4>
 
 ###
 
