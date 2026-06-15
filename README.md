@@ -1,4 +1,4 @@
-![signature](https://github.com/user-attachments/assets/0e8bde3b-36c7-4841-ba8f-f25cd6dcee40)
+![signature](jrcc.svg)
 
 > **"A shinobi knows the difference between honor and victory."** - *Genichiro Ashina*
 
