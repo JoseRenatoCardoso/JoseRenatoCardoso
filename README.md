@@ -1,44 +1,51 @@
-<h1 align="center">👋 Hey there, that's me.</h1>
+![signature](https://github.com/user-attachments/assets/0e8bde3b-36c7-4841-ba8f-f25cd6dcee40)
 
-###
+> **"A shinobi knows the difference between honor and victory."** - *Genichiro Ashina*
 
-<h3 align="left">🂡 About Me</h3>
+<h2 align="center">SOC Analyst N1 · AppSec · AI Agents Enthusiast</h2>
 
-###
+### 🃏 Find me...
 
-<p align="left">🎓 I'm José Renato, a Computer Engineering student at UTFPR in Paraná, Brazil.<br><br>🚀 Constantly evolving and exploring new technologies in computing and algorithms, driven by curiosity.<br><br>💖 Passionate about blockchain technologies, cybersecurity, and software development.<br><br>🎮 I'm a lover of games, culture, and everything related to computers. Occasionally gaming or seeking new horizons.</p>
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d4589-ba00-7336-9d10-faede1512746)
+<a href="https://app.letsdefend.io/user/jrcc"> <img src="https://cdn.brandfetch.io/idUifZ_Iz6/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="28"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zTTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzdtMjgyLjEgMzIwaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjl6Ii8+PC9zdmc+)](https://linkedin.com/in/JoseRenatoCardoso)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.joserenatocardoso@proton.me)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JoseRenatoCardoso)
 
-###
-
-<h3 align="left">🛠 Techs</h3>
-
-###
+### ⚒️ My stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Progress :</h3>
+### 🚀 Featured Projects
 
-###
+**SOC Reports** *(under construction)*  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseRenatoCardoso&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="240" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=JoseRenatoCardoso&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="240" alt="streak graph"  />
-</div>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseRenatoCardoso&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="JoseRenatoCardoso's Stats" />
+</p>
+
+---
+
+### 🏅 Certifications
+
+[![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps-Associate-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/adf966d8-585a-419b-a8cb-c298b1eff849/public_url)
+
+> **"A mind needs books as a sword needs a whetstone, if it is to keep its edge."** - *Tyrion Lannister*
