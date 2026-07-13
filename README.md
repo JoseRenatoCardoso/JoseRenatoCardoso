@@ -1,6 +1,4 @@
-![signature](jrcc.svg)
-
-> **"A shinobi knows the difference between honor and victory."** - *Genichiro Ashina*
+![signature](jrcc_card.svg)
 
 <h2 align="center">SOC Analyst N1 · AppSec · AI Agents Enthusiast</h2>
 
